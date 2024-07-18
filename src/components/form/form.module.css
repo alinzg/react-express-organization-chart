@@ -1,0 +1,29 @@
+.prevent {
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+  /* background-color: red; */
+}
+
+.form {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+input {
+  padding: 3px 5px;
+}
+
+button {
+  border: none;
+  background-color: black;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 2px;
+}

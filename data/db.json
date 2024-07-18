@@ -1,0 +1,43 @@
+{
+  "cells": [
+    {
+      "id": "1",
+      "parentId": "",
+      "name": "COMPANY",
+      "subGroups": [
+        {
+          "id": "5e614dcb-0bd8-4642-9564-ba756bce642d",
+          "parentId": "1",
+          "name": "CEO",
+          "subGroups": [
+            {
+              "id": "99d44479-b8ea-4389-9b19-ec0ea7cbb091",
+              "parentId": "5e614dcb-0bd8-4642-9564-ba756bce642d",
+              "name": "Boss 1",
+              "subGroups": [
+                {
+                  "id": "89af8548-8b9e-4067-a7fa-435311a8bcb9",
+                  "parentId": "99d44479-b8ea-4389-9b19-ec0ea7cbb091",
+                  "name": "Employee 1",
+                  "subGroups": []
+                },
+                {
+                  "id": "8fb80423-99a6-4c7e-af2f-4d46f0c9b077",
+                  "parentId": "99d44479-b8ea-4389-9b19-ec0ea7cbb091",
+                  "name": "Employee 2",
+                  "subGroups": []
+                }
+              ]
+            },
+            {
+              "id": "46000b6a-780d-4eaa-b905-09ded189283e",
+              "parentId": "5e614dcb-0bd8-4642-9564-ba756bce642d",
+              "name": "Boss 2",
+              "subGroups": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
